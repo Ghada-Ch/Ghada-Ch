@@ -23,7 +23,7 @@
 
 ## 🛠️ Tech Stack
 
-React • Next.js • Node.js • NestJS • TypeScript • PostgreSQL • Prisma • GraphQL
+React • Next.js • Angular • Node.js • Nest.js • Node.js • Spring Boot • .NET / C# • Flask • TypeScript • PostgreSQL • MongoDB • MySQL • Firebase • Prisma • GraphQL • TensorFlow • OpenCV • YOLO • CNN
 
 ---
 
@@ -36,4 +36,4 @@ React • Next.js • Node.js • NestJS • TypeScript • PostgreSQL • Prism
 ## 📫 Contact
 
 - GitHub: @Ghada-Ch
-- Portfolio: your link
+- Portfolio: https://portfolio-ghada-ch.vercel.app/
