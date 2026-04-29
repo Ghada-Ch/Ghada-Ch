@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=250&section=header&text=Ghada%20Chouichi&fontSize=75&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20•%20Full-Stack%20Developer&descAlignY=60&descSize=20&descColor=ffffff" width="100%" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Ghada!;Architecting+scalable+full-stack+systems;Creator+of+the+Animora+UI+Ecosystem;Let's+build+something+extraordinary+✨" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=250&section=header&text=Ghada%20Chouichi&fontSize=75&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20•%20Full-Stack%20Developer&descAlignY=60&descSize=20&descColor=ffffff" width="100%" /> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Ghada!;Architecting+scalable+full-stack+systems;Creator+of+the+Animora+UI+Ecosystem;Let's+build+something+extraordinary+✨" alt="Typing SVG" />
 </div>
 
 <div align="center" style="margin-top: 10px;"> 
@@ -18,11 +17,8 @@
 
 <br />
 
-
 <div align="center">
-
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-
 <tr>
   <td colspan="2" style="background: linear-gradient(90deg, #7C3AED 0%, #FF69B4 100%); padding: 2px; border-radius: 20px 20px 0 0;">
     <div align="center" style="background: #0D1117; border-radius: 18px 18px 0 0; padding: 25px;">
@@ -47,7 +43,6 @@
     </div>
   </td>
 </tr>
-
 <tr>
   <td colspan="2" style="
     background:#0D1117;
@@ -64,7 +59,6 @@
     </div>
   </td>
 </tr>
-
 <tr>
 <td colspan="2" style="
   background: #0D1117;
@@ -80,20 +74,17 @@
   padding: 20px;
   background: linear-gradient(180deg, rgba(124, 58, 237, 0.05) 0%, transparent 100%);
 ">
-
+  
  ##  > LANGUAGE_DNA_SEQUENCE
+ 
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghada-Ch&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=C084FC&text_color=a6a6a6&hide_title=true"
-  width="90%"
+  width="50%"
 />
-
 </div>
-
 </td>
 </tr>
-
 </table>
-
 </div>
 <br />
 
@@ -126,7 +117,6 @@
     </td>
   </tr>
 </table>
-
 <br />
 
 ---
@@ -134,7 +124,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="30" /> Technical Arsenal
 
 <br />
-
 <div align="center">
   <table width="100%" border="0" cellpadding="0" cellspacing="10">
     <tr>
@@ -205,14 +194,11 @@
     width="100%"
   />
 </div>
-
 <br />
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ghada-Ch&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views" /> 
-  <br /><br />
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="25" />
   <img src="https://forthebadge.com/images/badges/uses-html.svg" height="25" />
   <br /><br />
