@@ -103,7 +103,7 @@
         <h2 style="margin-top: -20px; color: #ffffff;">🎭 Animora</h2>
         <p style="font-size: 1.15em; color: #FF69B4;"><strong>JavaScript UI Animation & Emotion Library</strong></p>
         <div align="center">
-        <img src="animora.png" width="100%" style="border-radius: 15px; border: 1px solid #7C3AED;" alt="Project Preview">
+        <img src="animora.png" style="border-radius: 15px; border: 1px solid #7C3AED;" alt="Project Preview">
         </div>
         <p style="color: #a6a6a6; line-height: 1.7;">
           A living ecosystem of 100+ characters powered by a proprietary <strong>Emotion Engine</strong>. Architected to transform static interfaces into interactive, expressive, and alive experiences utilizing <strong>Spring Physics</strong> and <strong>React 18</strong>.
