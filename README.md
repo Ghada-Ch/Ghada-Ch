@@ -1,20 +1,29 @@
+![Ghada Chouichi's GitHub Card](https://card-api-three.vercel.app/api/card?theme=cyber&name=Ghada+Chouichi&initials=GC&role=Full-Stack+Developer&tags=React%2CNext.js%2CTypeScript%2CNode.js%2COpen+Source&github=https%3A%2F%2Fgithub.com%2Fghada-ch&linkedin=ghada-chouichi)
+
+<br />
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=250&section=header&text=Ghada%20Chouichi&fontSize=75&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20•%20Full-Stack%20Developer&descAlignY=60&descSize=20&descColor=ffffff" width="100%" /> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Ghada!;Architecting+scalable+full-stack+systems;Creator+of+the+Animora+UI+Ecosystem;Let's+build+something+extraordinary+✨" alt="Typing SVG" />
+  <table>
+    <tr>
+      <td align="center">
+        <h3>✨ Create your own GitHub card</h3>
+        <p>Use my card generator to build a custom animated README card for your profile.</p>
+        <a href="https://card-api-three.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Web%20App-Visit%20Now-7C3AED?style=for-the-badge" alt="Live Web App" />
+        </a>
+        <a href="https://github.com/Ghada-Ch/card-api" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-GitHub-111111?style=for-the-badge&logo=github" alt="Source Code" />
+        </a>
+        <br /><br />
+        <code>![My Card](https://card-api-three.vercel.app/api/card?theme=cyber&name=Your+Name&....)</code>
+ <br /><br />
+        ✨ Additional themes (Anime, Neon ...) are available and more are coming soon.
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center" style="margin-top: 10px;"> 
-  <a href="https://www.linkedin.com/in/ghada-chouichi/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /> 
-  </a> 
-  <a href="mailto:ghada.chouichi@gmail.com"> 
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" /> 
-  </a> 
-  <a href="https://portfolio-ghada-ch.vercel.app/"> 
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=react&logoColor=FF69B4" alt="Portfolio" /> 
-  </a> 
-</div> 
-
+<br />
 <br />
 
 <div align="center">
@@ -60,29 +69,7 @@
   </td>
 </tr>
 <tr>
-<td colspan="2" style="
-  background: #0D1117;
-  padding: 20px;
-  border: 1px solid rgba(124, 58, 237, 0.3);
-  border-top: none;
-  border-radius: 0 0 20px 20px;
-">
 
-<div align="center" style="
-  border: 1px solid rgba(255, 105, 180, 0.2);
-  border-radius: 16px;
-  padding: 20px;
-  background: linear-gradient(180deg, rgba(124, 58, 237, 0.05) 0%, transparent 100%);
-">
-  
- ##  > LANGUAGE_DNA_SEQUENCE
- 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghada-Ch&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=C084FC&text_color=a6a6a6&hide_title=true"
-  width="50%"
-/>
-</div>
-</td>
 </tr>
 </table>
 </div>
@@ -204,6 +191,15 @@
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="25" />
   <img src="https://forthebadge.com/images/badges/uses-html.svg" height="25" />
+    <a href="https://www.linkedin.com/in/ghada-chouichi/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /> 
+  </a> 
+  <a href="mailto:ghada.chouichi@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" /> 
+  </a> 
+  <a href="https://portfolio-ghada-ch.vercel.app/"> 
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=react&logoColor=FF69B4" alt="Portfolio" /> 
+  </a> 
   <br /><br />
-  <p style="color: #a6a6a6;"><sub>Architected by Ghada Chouichi • 2026</sub></p>
+  <p style="color: #a6a6a6;"><sub>Architected by Ghada Chouichi  • 2026</sub></p>
 </div>
